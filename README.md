@@ -1,7 +1,17 @@
+ZONECOIN has implemented both PoW (Proof of Work - Hardware Mining) and PoS (Proof of Stake - Wallet Staking) to ensure multiple mining algorithms work seamlessly!
 
-Zonecoin development tree
+Specifications
 
-Zonecoin is a PoS-based cryptocurrency.
+Algorithm: SCRYPT PoW | PoS 
+Total Coin Supply: 21,000,000 
+Initial Block Reward: 50 ZNE 
+Coinbase Maturity: 20 Blocks 
+Confirmations: 6 
+Last PoW Block: 100,000 
+PoS Coin Age: 8 Hours to PoS 
+PoS Interest: 10% (Per Year)
+
+Visit https://www.zonecoin.tech for more information on this coin!
 
 Development process
 ===========================
