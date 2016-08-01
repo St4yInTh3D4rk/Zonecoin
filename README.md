@@ -1,3 +1,5 @@
+<a href="https://www.zonecoin.tech"><img src="https://s31.postimg.org/z85te9gez/wallet_coin.png" border="0" align="left"></a>
+
 ZONECOIN has implemented both PoW (Proof of Work - Hardware Mining) and PoS (Proof of Stake - Wallet Staking) to ensure multiple mining algorithms work seamlessly!
 
 Specifications
