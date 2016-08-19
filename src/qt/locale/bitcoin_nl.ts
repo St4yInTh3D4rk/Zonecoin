@@ -1756,8 +1756,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Zonecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Zonecoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Zonecoin address (e.g. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</source>
+        <translation>Voeg een Zonecoin adres in (bijv. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1900,8 +1900,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Het adres om naar te betalen (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</source>
+        <translation>Het adres om naar te betalen (bijv. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1930,8 +1930,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Zonecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Zonecoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Zonecoin address (e.g. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</source>
+        <translation>Voeg een Zonecoin adres in (bijv. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</translation>
     </message>
 </context>
 <context>
@@ -1954,8 +1954,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Het adres om het bericht te ondertekenen (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i) </translation>
+        <source>The address to sign the message with (e.g. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</source>
+        <translation>Het adres om het bericht te ondertekenen (bijv. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2) </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2018,8 +2018,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Het adres van het bericht is ondertekend met (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</source>
+        <translation>Het adres van het bericht is ondertekend met (bijv. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2034,8 +2034,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Zonecoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Zonecoin adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Zonecoin address (e.g. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</source>
+        <translation>Voeg een Zonecoin adres in (bijv. ZQA6GyL8iuMyiBriyBbthjUG6WcuQtuws2)</translation>
     </message>
     <message>
         <location line="-2"/>
